@@ -1,6 +1,8 @@
 _site
 .DS_Store
-.tmp
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
 node_modules
+Gemfile.lock
 .sass-cache
-*.sublime-*
